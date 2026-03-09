@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ペトリコール",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-03-09T12:26:50.379977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "THE BACK HORN",
+      "has_synced": false,
+      "path": "select/01_ペトリコール_THE_BACK_HORN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "Back Horn, The",
+      "has_synced": false,
+      "path": "select/02_ペトリコール_Back_Horn,_The.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_ペトリコール_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "vöv",
+      "has_synced": false,
+      "path": "select/04_ペトリコール_vöv.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/05_ペトリコール_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "Endorfin.",
+      "has_synced": false,
+      "path": "select/06_ペトリコール_Endorfin..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ペトリコール",
+      "artist": "Sg",
+      "has_synced": false,
+      "path": "select/07_ペトリコール_Sg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペトリコール",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_ペトリコール_米津玄師.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ペトリコール",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_02_ペトリコール_米津玄師.txt"
+    }
+  ]
+}
